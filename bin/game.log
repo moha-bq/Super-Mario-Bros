@@ -1,18 +1,18 @@
 HGE Started..
 
 HGE version: 1.80
-Date: 27.02.2018, 21:33:40
+Date: 23.02.2026, 02:15:37
 
 Application: Super Mario
-OS: Windows 6.1.7601
-Memory: 4194303K total, 4194303K free
+OS: Windows 6.2.9200
+Memory: 2097151K total, 1206352K free
 
-D3D Driver: nvd3dum.dll
-Description: NVIDIA GeForce GTX 680M
-Version: 21.21.13.7651
+D3D Driver: nvldumd.dll
+Description: NVIDIA GeForce GTX 1660 Ti
+Version: 32.0.15.9144
 Mode: 640 x 480 x X8R8G8B8
 
-Sound Device: Speakers (Realtek High Definition Audio)
+Sound Device: Haut-parleurs (High Definition Audio Device)
 Sample rate: 44100
 
 Init done.

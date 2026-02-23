@@ -6,6 +6,9 @@ This is a clone of the legendary NES game Super Mario Bros with an in-game level
 
 <p> You can find a compiled version of the game inside the 'bin' directory</p>
 
+Video: https://www.youtube.com/watch?v=CZezLogQr-c
+<br>
+
 ## Screenshots
 
 <img src="imgs/0.png"/>
